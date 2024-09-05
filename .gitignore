@@ -16,3 +16,5 @@ preprocessing/kuhn.pdf
 preprocessing/hooks.pdf
 preprocessing/benjamin.pdf
 02-detect-quotations/drop_junk_phrases_test.ipynb
+02-detect-quotations/projects_setup.py
+02-detect-quotations/drop_junk_phrases 01.ipynb
